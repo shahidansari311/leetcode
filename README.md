@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/shahidansari311/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shahidansari311/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -62,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shahidansari311/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
