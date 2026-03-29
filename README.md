@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shahidansari311/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shahidansari311/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1108-defanging-an-ip-address](https://github.com/shahidansari311/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1859-sorting-the-sentence](https://github.com/shahidansari311/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Queue
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shahidansari311/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shahidansari311/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shahidansari311/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1859-sorting-the-sentence](https://github.com/shahidansari311/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
