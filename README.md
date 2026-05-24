@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahidansari311/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidansari311/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
