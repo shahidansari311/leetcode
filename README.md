@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidansari311/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/shahidansari311/leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/shahidansari311/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shahidansari311/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shahidansari311/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 ## Stack
@@ -119,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shahidansari311/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/shahidansari311/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
