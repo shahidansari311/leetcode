@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shahidansari311/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shahidansari311/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shahidansari311/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -109,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahidansari311/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahidansari311/leetcode/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shahidansari311/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shahidansari311/leetcode/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
