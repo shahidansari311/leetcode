@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shahidansari311/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shahidansari311/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/shahidansari311/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/shahidansari311/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahidansari311/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shahidansari311/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
