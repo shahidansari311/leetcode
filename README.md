@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/shahidansari311/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shahidansari311/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shahidansari311/leetcode/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
