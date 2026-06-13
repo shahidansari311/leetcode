@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shahidansari311/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0875-koko-eating-bananas](https://github.com/shahidansari311/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shahidansari311/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shahidansari311/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shahidansari311/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/shahidansari311/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidansari311/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shahidansari311/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
