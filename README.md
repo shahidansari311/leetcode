@@ -200,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shahidansari311/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shahidansari311/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shahidansari311/leetcode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/shahidansari311/leetcode/tree/master/0577-employee-bonus) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
