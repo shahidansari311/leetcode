@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shahidansari311/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shahidansari311/leetcode/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shahidansari311/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shahidansari311/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahidansari311/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shahidansari311/leetcode/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shahidansari311/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0844-backspace-string-compare](https://github.com/shahidansari311/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
