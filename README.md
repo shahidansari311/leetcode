@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/shahidansari311/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/shahidansari311/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/shahidansari311/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shahidansari311/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shahidansari311/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Memoization
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shahidansari311/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shahidansari311/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Tree
 |  |
 | ------- |
