@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/shahidansari311/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0560-subarray-sum-equals-k](https://github.com/shahidansari311/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shahidansari311/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0875-koko-eating-bananas](https://github.com/shahidansari311/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shahidansari311/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shahidansari311/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shahidansari311/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/shahidansari311/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shahidansari311/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shahidansari311/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shahidansari311/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shahidansari311/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Tree
 |  |
