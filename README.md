@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahidansari311/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shahidansari311/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shahidansari311/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shahidansari311/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahidansari311/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shahidansari311/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shahidansari311/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahidansari311/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Memoization
 |  |
 | ------- |
