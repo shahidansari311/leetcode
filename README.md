@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/shahidansari311/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shahidansari311/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shahidansari311/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shahidansari311/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahidansari311/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
+| [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Stack
 |  |
 | ------- |
@@ -268,11 +270,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahidansari311/leetcode/tree/master/0210-course-schedule-ii) |
+| [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahidansari311/leetcode/tree/master/0210-course-schedule-ii) |
+| [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -281,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shahidansari311/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
