@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/shahidansari311/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/shahidansari311/leetcode/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/shahidansari311/leetcode/tree/master/1669-merge-in-between-linked-lists) |
 ## Math
 |  |
 | ------- |
