@@ -267,18 +267,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shahidansari311/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shahidansari311/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahidansari311/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shahidansari311/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahidansari311/leetcode/tree/master/0210-course-schedule-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shahidansari311/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shahidansari311/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shahidansari311/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shahidansari311/leetcode/tree/master/0210-course-schedule-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shahidansari311/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shahidansari311/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shahidansari311/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shahidansari311/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahidansari311/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shahidansari311/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
