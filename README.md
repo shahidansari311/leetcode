@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shahidansari311/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shahidansari311/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/shahidansari311/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shahidansari311/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shahidansari311/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/shahidansari311/leetcode/tree/master/0046-permutations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shahidansari311/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahidansari311/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/shahidansari311/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shahidansari311/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/shahidansari311/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/shahidansari311/leetcode/tree/master/0141-linked-list-cycle) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shahidansari311/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shahidansari311/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shahidansari311/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shahidansari311/leetcode/tree/master/0051-n-queens) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shahidansari311/leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
@@ -353,5 +357,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shahidansari311/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shahidansari311/leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shahidansari311/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
