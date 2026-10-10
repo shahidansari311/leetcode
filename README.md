@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shahidansari311/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shahidansari311/leetcode/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/shahidansari311/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shahidansari311/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shahidansari311/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shahidansari311/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
