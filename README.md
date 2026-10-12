@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/shahidansari311/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1137-n-th-tribonacci-number](https://github.com/shahidansari311/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Stack
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shahidansari311/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/shahidansari311/leetcode/tree/master/0441-arranging-coins) |
+| [1137-n-th-tribonacci-number](https://github.com/shahidansari311/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shahidansari311/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/shahidansari311/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/shahidansari311/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
