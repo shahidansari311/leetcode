@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shahidansari311/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/shahidansari311/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shahidansari311/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0746-min-cost-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/shahidansari311/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shahidansari311/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/shahidansari311/leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/shahidansari311/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/shahidansari311/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2050-parallel-courses-iii](https://github.com/shahidansari311/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Stack
