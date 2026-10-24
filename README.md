@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahidansari311/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/shahidansari311/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1859-sorting-the-sentence](https://github.com/shahidansari311/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2409-count-days-spent-together](https://github.com/shahidansari311/leetcode/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Queue
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shahidansari311/leetcode/tree/master/0441-arranging-coins) |
 | [1137-n-th-tribonacci-number](https://github.com/shahidansari311/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/shahidansari311/leetcode/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/shahidansari311/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/shahidansari311/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shahidansari311/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
