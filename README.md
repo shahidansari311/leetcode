@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shahidansari311/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shahidansari311/leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/shahidansari311/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shahidansari311/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/shahidansari311/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shahidansari311/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/shahidansari311/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/shahidansari311/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahidansari311/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shahidansari311/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahidansari311/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shahidansari311/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
