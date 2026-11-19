@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shahidansari311/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shahidansari311/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/shahidansari311/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0445-add-two-numbers-ii](https://github.com/shahidansari311/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/shahidansari311/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahidansari311/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shahidansari311/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shahidansari311/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shahidansari311/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shahidansari311/leetcode/tree/master/0141-linked-list-cycle) |
+| [0445-add-two-numbers-ii](https://github.com/shahidansari311/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/shahidansari311/leetcode/tree/master/1669-merge-in-between-linked-lists) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shahidansari311/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/shahidansari311/leetcode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/shahidansari311/leetcode/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/shahidansari311/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shahidansari311/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shahidansari311/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/shahidansari311/leetcode/tree/master/2409-count-days-spent-together) |
