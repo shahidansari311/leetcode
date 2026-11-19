@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/shahidansari311/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/shahidansari311/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/shahidansari311/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/shahidansari311/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahidansari311/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shahidansari311/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shahidansari311/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shahidansari311/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shahidansari311/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shahidansari311/leetcode/tree/master/0148-sort-list) |
 | [0844-backspace-string-compare](https://github.com/shahidansari311/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shahidansari311/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shahidansari311/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shahidansari311/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shahidansari311/leetcode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/shahidansari311/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shahidansari311/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -374,11 +377,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shahidansari311/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shahidansari311/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shahidansari311/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/shahidansari311/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shahidansari311/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shahidansari311/leetcode/tree/master/0148-sort-list) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
