@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahidansari311/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/shahidansari311/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1859-sorting-the-sentence](https://github.com/shahidansari311/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shahidansari311/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/shahidansari311/leetcode/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/shahidansari311/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Queue
